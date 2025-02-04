@@ -34,11 +34,11 @@
             //Part 3
             
             // Computer
-            Console.WriteLine("   _______\r\n        |.-----.|\r\n        ||x . x||\r\n        ||_.-._||\r\n        `--)-(--`\r\n       __[=== o]___\r\n      |:::::::::::|\\\r\n   `-=========-`()");
+            Console.Write("   _______\r\n        |.-----.|\r\n        ||x . x||\r\n        ||_.-._||\r\n        `--)-(--`\r\n       __[=== o]___\r\n      |:::::::::::|\\\r\n   `-=========-`()");
             
             //Windows Logo
             Console.Write("        _.-;;-._\r\n      '-..-'|   ||   |\r\n      '-..-'|_.-;;-._|\r\n      '-..-'|   ||   |\r\n   '-..-'|_.-''-._|");
-
+            // its not side by side idk how to do that
         }
     }
 }
